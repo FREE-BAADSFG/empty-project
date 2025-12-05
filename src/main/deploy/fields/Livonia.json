@@ -1,0 +1,67 @@
+{
+    "BlueCenterAlgaeToLeftAlgae":"72.00",
+    "BlueCenterAlgaeToRightAlgae":"72.00",
+    "BlueWallToRightAlgae":"48.00",
+    "BlueWallToReef_ALMiddle_X":"144.50",
+    "BlueCenterAlgaeToReefSide":"95.75",
+    "BlueReefEdgeToBranch":"12.00",
+    "BlueReefSideLength":"37.00",
+    "BlueReefInnerToOuter":"16.25",
+    "BlueLeftHPWallToReef_ALMiddle_Y":"140.00",
+    "BlueLeftHPWallToLeftCage_Y":"31.50",
+    "BlueInitLineToLeftCage":"48.00",
+    "BlueProcToInitLine":"62.75",
+    "BlueCenterCageToLeftCage":"43.00",
+    "BlueCenterCageToRightCage":"43.00",
+
+    "TAG_18_TO_LEFT": "6.375",
+    "TAG_18_TO_RIGHT": "-7.125",
+
+    "TAG_17_TO_LEFT": "7.125",
+    "TAG_17_TO_RIGHT": "-7.125",
+
+    "TAG_22_TO_LEFT": "7.125",
+    "TAG_22_TO_RIGHT": "-7.125",
+
+    "TAG_21_TO_LEFT": "7.125",
+    "TAG_21_TO_RIGHT": "-7.125",
+
+    "TAG_20_TO_LEFT": "7.125",
+    "TAG_20_TO_RIGHT": "-6.625",
+
+    "TAG_19_TO_LEFT": "7.125",
+    "TAG_19_TO_RIGHT": "-7.125",
+
+    "RedCenterAlgaeToLeftAlgae":"72.00",
+    "RedCenterAlgaeToRightAlgae":"72.00",
+    "RedWallToRightAlgae":"47.00",
+    "RedWallToReef_ALMiddle_X":"143.50",
+    "RedCenterAlgaeToReefSide":"95.50",
+    "RedReefEdgeToBranch":"11.50",
+    "RedReefSideLength":"37.00",
+    "RedReefInnerToOuter":"16.25",
+    "RedLeftHPWallToReef_ALMiddle_Y":"140.00",
+    "RedLeftHPWallToLeftCage_Y":"31.50",
+    "RedInitLineToLeftCage":"48.00",
+    "RedProcToInitLine":"63.75",
+    "RedCenterCageToLeftCage":"43.00",
+    "RedCenterCageToRightCage":"43.00",
+
+    "TAG_7_TO_LEFT": "7.125",
+    "TAG_7_TO_RIGHT": "-7.125",
+
+    "TAG_8_TO_LEFT": "7.125",
+    "TAG_8_TO_RIGHT": "-7.125",
+
+    "TAG_9_TO_LEFT": "7.125",
+    "TAG_9_TO_RIGHT": "-7.125",
+
+    "TAG_10_TO_LEFT": "7.125",
+    "TAG_10_TO_RIGHT": "-7.125",
+
+    "TAG_11_TO_LEFT": "9.125",
+    "TAG_11_TO_RIGHT": "-7.125",
+
+    "TAG_6_TO_LEFT": "6.125",
+    "TAG_6_TO_RIGHT": "-7.125"
+}
